@@ -1,0 +1,118 @@
+.backgoundColorNav {
+    background-color: rgb(253, 188, 67);
+    color: black;
+}
+
+.textNav {
+    color: white !important;
+    font-size: 25px;
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.navbar {
+    padding: 20px 100px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.divLogo {
+    padding-right: 50px;
+}
+
+.heightFull {
+    height: 100vh;
+}
+
+.sectionYellow {
+    padding-top: 93px;
+    background-image: url(./img/buracoss.webp);
+
+}
+
+.titleSectionOne {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+
+.subTitleSectionOne {
+    color: white;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px;
+}
+
+.divContentSection {
+    padding: 0px 100px;
+}
+
+.btnSectionOneContact {
+    background-color: #00bec9;
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 30px;
+}
+
+.divTextSectionOne {
+    margin-right: 40px;
+}
+
+.btnSectionTwo {
+    background-color: #0c79f5;
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.titleSectionTwo {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+
+.subTitleSectionTwo {
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px;
+}
+
+.imgSectionTwo {
+    opacity: 0.7;
+    width: 100%;
+}
+
+.titleImgSectionThree {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.sectionGray {
+    padding: 93px 0px;
+    background-color: #343434;
+}
+
+.linkStyleSectionSix {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    display: block;
+}
+
+.socialSectionSix {
+    border-radius: 50%;
+    background-color: white;
+    border: none;
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
+}
+
